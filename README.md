@@ -5,4 +5,8 @@
 - Removes the 3 suggested reactions to every message and makes the pop-up less intrusive.
 - Contains a slightly larger emoji selection menu to fit more emoji.
 
+## Preview
 <img src="https://i.imgur.com/k0q8d22.png"/>
+
+### Emoji menu
+<img src="https://i.imgur.com/S4zZqT9.png"/>
